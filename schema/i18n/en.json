@@ -1,0 +1,10 @@
+{
+  "plugin.dnsla-dns.name": "DNS.LA",
+  "plugin.dnsla-dns.description": "ACME DNS-01 via DNS.LA.",
+  "plugin.dnsla-dns.access.apiId.label": "DNS.LA API ID",
+  "plugin.dnsla-dns.access.apiId.tooltip": "For more information, see <a href=\"https://www.dns.la/docs/ApiDoc\" target=\"_blank\">https://www.dns.la/docs/ApiDoc</a>",
+  "plugin.dnsla-dns.access.apiId.placeholder": "Please enter DNS.LA API ID",
+  "plugin.dnsla-dns.access.apiSecret.label": "DNS.LA API secret",
+  "plugin.dnsla-dns.access.apiSecret.tooltip": "For more information, see <a href=\"https://www.dns.la/docs/ApiDoc\" target=\"_blank\">https://www.dns.la/docs/ApiDoc</a>",
+  "plugin.dnsla-dns.access.apiSecret.placeholder": "Please enter DNS.LA API secret"
+}

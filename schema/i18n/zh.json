@@ -1,0 +1,10 @@
+{
+  "plugin.dnsla-dns.name": "帝恩爱斯（DNS.LA）",
+  "plugin.dnsla-dns.description": "通过 帝恩爱斯（DNS.LA） 完成 ACME DNS-01 验证。",
+  "plugin.dnsla-dns.access.apiId.label": "帝恩爱斯 API ID",
+  "plugin.dnsla-dns.access.apiId.tooltip": "这是什么？请参阅 <a href=\"https://www.dns.la/docs/ApiDoc\" target=\"_blank\">https://www.dns.la/docs/ApiDoc</a>",
+  "plugin.dnsla-dns.access.apiId.placeholder": "请输入帝恩爱斯 API ID",
+  "plugin.dnsla-dns.access.apiSecret.label": "帝恩爱斯 API 密钥",
+  "plugin.dnsla-dns.access.apiSecret.tooltip": "这是什么？请参阅 <a href=\"https://www.dns.la/docs/ApiDoc\" target=\"_blank\">https://www.dns.la/docs/ApiDoc</a>",
+  "plugin.dnsla-dns.access.apiSecret.placeholder": "请输入帝恩爱斯 API 密钥"
+}

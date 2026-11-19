@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "dnsla",
+  "binary": "dnsla-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via DNS.LA.",
+  "display_name_key": "plugin.dnsla-dns.name",
+  "icon": "icon.svg",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "dnsla-dns",
+  "provider_aliases": [
+    "dnsla"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}

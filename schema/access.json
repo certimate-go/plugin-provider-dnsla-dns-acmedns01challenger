@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "dnsla",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "apiId",
+        "valueType": "text",
+        "labelKey": "plugin.dnsla-dns.access.apiId.label",
+        "tooltipKey": "plugin.dnsla-dns.access.apiId.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.dnsla-dns.access.apiId.placeholder",
+        "required": true
+      },
+      {
+        "name": "apiSecret",
+        "valueType": "secret",
+        "labelKey": "plugin.dnsla-dns.access.apiSecret.label",
+        "tooltipKey": "plugin.dnsla-dns.access.apiSecret.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.dnsla-dns.access.apiSecret.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}
